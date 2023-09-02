@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Models
 {
-    internal class Admin
+    public class Admin
     {
         [Key]
         public int Id { get; set; }

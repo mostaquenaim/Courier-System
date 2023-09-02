@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Models
 {
-    internal class CourierContext : DbContext
+    public class CourierContext : DbContext
     {
         public DbSet<Admin> Admins { get; set; }
 

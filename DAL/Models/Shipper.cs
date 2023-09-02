@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Models
 {
-    internal class Shipper
+    public class Shipper
     {
         public int ID { get; set; }
 

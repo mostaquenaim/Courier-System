@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Models
 {
-    internal class Receiver
+    public class Receiver
     {
         public int Id { get; set; }
 

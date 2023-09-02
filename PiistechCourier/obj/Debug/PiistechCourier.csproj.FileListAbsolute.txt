@@ -83,3 +83,14 @@ E:\.net\PiistechCourier\PiistechCourier\obj\Debug\PiistechCourier.csproj.CoreCom
 E:\.net\PiistechCourier\PiistechCourier\obj\Debug\PiistechCourier.csproj.CopyComplete
 E:\.net\PiistechCourier\PiistechCourier\obj\Debug\PiistechCourier.dll
 E:\.net\PiistechCourier\PiistechCourier\obj\Debug\PiistechCourier.pdb
+E:\.net\PiistechCourier\PiistechCourier\bin\System.Net.Http.Formatting.dll
+E:\.net\PiistechCourier\PiistechCourier\bin\System.Web.Http.dll
+E:\.net\PiistechCourier\PiistechCourier\bin\System.Web.Http.WebHost.dll
+E:\.net\PiistechCourier\PiistechCourier\bin\DAL.dll
+E:\.net\PiistechCourier\PiistechCourier\bin\AutoMapper.dll
+E:\.net\PiistechCourier\PiistechCourier\bin\System.Net.Http.Formatting.xml
+E:\.net\PiistechCourier\PiistechCourier\bin\System.Web.Http.xml
+E:\.net\PiistechCourier\PiistechCourier\bin\System.Web.Http.WebHost.xml
+E:\.net\PiistechCourier\PiistechCourier\bin\DAL.pdb
+E:\.net\PiistechCourier\PiistechCourier\bin\DAL.dll.config
+E:\.net\PiistechCourier\PiistechCourier\bin\AutoMapper.xml

@@ -15,5 +15,25 @@ namespace DAL
         {
             return new AdminRepo();
         }
+        public static IRepo<Customer> CustomerData()
+        {
+            return new CustomerRepo();
+        }
+        public static IRepo<Status> StatusData()
+        {
+            return new StatusRepo();
+        }
+        public static IRepo<Shipper> ShipperData()
+        {
+            return new ShipperRepo();
+        }
+        public static IRepo<Receiver> ReceiverData()
+        {
+            return new ReceiverRepo();
+        }
+        public static IRepo<Shipment> ShipmentData()
+        {
+            return new ShipmentRepo();
+        }
     }
 }
